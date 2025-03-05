@@ -9072,22 +9072,22 @@ const W2 = () => x.jsx("div", {
             className: "inline text-blue-500"
          })]
       }), x.jsx("p", {
-         className: "text-gray-400 text-xs",
-         children: "Try, Try, and Try."
+         className: "text-blue-400 text-xs",
+         children: "Strive To Be The Best."
       }), x.jsxs("div", {
          className: "flex justify-center gap-2 mt-3",
          children: [x.jsx("span", {
             className: "bg-white/5 px-3 py-1 rounded-full text-xs hover:bg-white/10 transition-all hover:scale-105 ring-1 ring-yellow-500",
-            children: "💻 Watch"
+            children: "📺 Watch"
          }), x.jsx("span", {
             className: "bg-white/5 px-3 py-1 rounded-full text-xs hover:bg-white/10 transition-all hover:scale-105 ring-1 ring-yellow-500",
-            children: "Gaming"
+            children: "🎮 Gaming"
          }), x.jsx("span", {
             className: "bg-white/5 px-3 py-1 rounded-full text-xs hover:bg-white/10 transition-all hover:scale-105 ring-1 ring-yellow-500",
-            children: "Editor"
+            children: "💻 Editor"
          }), x.jsx("span", {
             className: "bg-white/5 px-3 py-1 rounded-full text-xs hover:bg-white/10 transition-all hover:scale-105 ring-1 ring-yellow-500",
-            children: "Music"
+            children: "🔊 Music"
          })]
       }), x.jsxs("div", {
          className: "flex justify-center gap-4 mt-4 text-xl text-gray-400",
@@ -14841,7 +14841,12 @@ const gT = (e, t) => of(e) ? new mT(t) : new pT(t, {
    vT = [{
       title: "About Me",
       description: "About me.",
-      url: "https://www.aryashop.biz.id",
+      url: "https://aryashop.vercel.app",
+      icon: "🫧"
+   }, {
+      title: "Owner Arya Official",
+      description: "Owner Number.",
+      url: "https://wa.me/6282264605530",
       icon: "🫧"
    }, {
       title: "My Room Chat Bot 1",
@@ -14996,7 +15001,7 @@ const gT = (e, t) => of(e) ? new mT(t) : new pT(t, {
                   },
                   children: x.jsx(Rs, {
                      to: "/",
-                     className: "text-lg font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent",
+                     className: "text-lg font-bold bg-gradient-to-r from-orange-600 to-white-600 bg-clip-text text-transparent",
                      children: "Arya Shop"
                   })
                }), x.jsxs("div", {
