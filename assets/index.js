@@ -14847,8 +14847,18 @@ const gT = (e, t) => of(e) ? new mT(t) : new pT(t, {
       title: "Owner Arya Official",
       description: "Owner Number.",
       url: "https://wa.me/6282264605530",
-      icon: "🫧"
+      icon: "☎"
    }, {
+      title: "My YouTube",
+      description: "Subscribe For Support",
+      url: "https://youtube.com/@aryabr_24",
+      icon: "📟"
+   }, {
+      title: "My Tiktok",
+      description: "Follow to support",
+      url: "https://www.tiktok.com/@arya.b_29",
+      icon: "🎶"
+   },{
       title: "My Room Chat Bot 1",
       description: "Join to my group for free bot",
       url: "https://chat.whatsapp.com/BgroRRmleSIKY3N66vyS9x",
@@ -14858,6 +14868,11 @@ const gT = (e, t) => of(e) ? new mT(t) : new pT(t, {
       description: "Join to my group for free bot",
       url: "https://chat.whatsapp.com/FmqtGGzSoXl8mU5vsNSZiB",
       icon: "🪸"
+   },{
+      title: "My Store Group",
+      description: "Join to my store group",
+      url: "https://chat.whatsapp.com/CMzuYOTdJaZFtWNArG7TGy",
+      icon: "🛒"
    }, {
       title: "Channel Whatsapp Arya Official",
       description: "Find your online chat friends.",
@@ -14866,7 +14881,7 @@ const gT = (e, t) => of(e) ? new mT(t) : new pT(t, {
    },{
       title: "Channel Testimoni Arya Official",
       description: "OUR TESTIMONI FOR YOU TRUST.",
-      url: "https://whatsapp.com/channel/0029VafvKzL2P59gzU6lGs0b",
+      url: "https://whatsapp.com/channel/0029VawCuhUEawdlYMv3ON03",
       icon: "🪪"
    }, {
       title: "Provide Support",
