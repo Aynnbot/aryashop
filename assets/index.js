@@ -15001,7 +15001,7 @@ const gT = (e, t) => of(e) ? new mT(t) : new pT(t, {
                   },
                   children: x.jsx(Rs, {
                      to: "/",
-                     className: "text-lg font-bold bg-gradient-to-r from-orange-600 to-white-600 bg-clip-text text-transparent",
+                     className: "text-lg font-bold bg-gradient-to-r from-blue-600 to-blue-600 bg-clip-text text-transparent",
                      children: "Arya Shop"
                   })
                }), x.jsxs("div", {
