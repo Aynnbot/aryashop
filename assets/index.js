@@ -19273,7 +19273,7 @@ const ik = () => {
                   },
                   className: "inline-block mb-4",
                   children: x.jsx(qR, {
-                     className: "w-12 h-12 text-purple-400"
+                     className: "w-12 h-12 text-blue-400"
                   })
                }), x.jsx(V.h1, {
                   initial: {
@@ -19282,8 +19282,8 @@ const ik = () => {
                   animate: {
                      scale: 1
                   },
-                  className: "text-5xl font-bold bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent mb-4",
-                  children: "Share your favorite songs!"
+                  className: "text-5xl font-bold bg-gradient-to-r from-blue-400 to-green-400 bg-clip-text text-transparent mb-4",
+                  children: "Kata-kata hari ini kawan!!!!"
                }), x.jsx("p", {
                   className: "text-gray-400",
                   children: "Leave your mark on this website by commenting or simply sharing your favorite songs."
@@ -19302,10 +19302,10 @@ const ik = () => {
                   className: "bg-white/5 backdrop-blur-lg rounded-xl p-2 shadow-xl border border-white/10",
                   children: [x.jsxs(Mp, {
                      children: [x.jsxs(q4, {
-                        className: "w-full px-4 py-3 bg-gradient-to-r from-purple-500 to-pink-500 hover:from-purple-600 hover:to-pink-600 rounded-lg transition-all flex items-center justify-center gap-2 shadow-lg group",
+                        className: "w-full px-4 py-3 bg-gradient-to-r from-blue-500 to-green-500 hover:from-blue-600 hover:to-green-600 rounded-lg transition-all flex items-center justify-center gap-2 shadow-lg group",
                         children: [x.jsx(Jp, {
                            className: "w-5 h-5 transition-transform group-hover:-translate-y-1"
-                        }), "Share a Song"]
+                        }), "Kata kata hari ini!!!!!"]
                      }), x.jsxs(jp, {
                         children: [x.jsx(_p, {
                            className: "fixed inset-0 bg-black/80 backdrop-blur-sm z-40"
