@@ -15093,11 +15093,8 @@ const gT = (e, t) => of(e) ? new mT(t) : new pT(t, {
                            to: "/",
                            label: "Home"
                         }, {
-                           to: "/store",
-                           label: "Store"
-                        }, {
-                           to: "/public",
-                           label: "Public Room"
+                           to: "/Market",
+                           label: "Market"
                         }].map(a => x.jsx(V.div, {
                            variants: {
                               initial: {
