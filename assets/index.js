@@ -9089,17 +9089,7 @@ const W2 = () => x.jsx("div", {
             className: "bg-white/5 px-3 py-1 rounded-full text-xs hover:bg-white/10 transition-all hover:scale-105 ring-1 ring-yellow-500",
             children: "🔊 Music"
          })]
-      }), x.jsxs("div", {
-         className: "flex justify-center gap-4 mt-4 text-xl text-gray-400",
-         children: [x.jsx("a", {
-            href: "https://instagram.com/br_ayaa29",
-            target: "_blank",
-            rel: "noopener noreferrer",
-            className: "text-zinc-400 hover:text-zinc-100 transition-colors",
-            children: x.jsx(F2, {
-               className: "h-5 w-5 text-pink-600"
-            })
-         }), x.jsx("a", {
+      }), x.jsx("a", {
             href: "https://github.com/AryaMarket",
             target: "_blank",
             rel: "noopener noreferrer",
@@ -9107,14 +9097,7 @@ const W2 = () => x.jsx("div", {
             children: x.jsx(_2, {
                className: "h-5 w-5 text-gray-600"
             })
-         }), x.jsx("a", {
-            href: "https://open.spotify.com/track/76UTJqRcTCTVAKKHpdc0XU?si=bFDbYsoXR02ninzsGLk22A",
-            target: "_blank",
-            rel: "noopener noreferrer",
-            className: "text-zinc-400 hover:text-zinc-100 transition-colors",
-            children: x.jsx($c, {
-               className: "h-5 w-5 text-green-600"
-            })
+         })
          })]
       })]
    })
