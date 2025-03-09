@@ -9097,7 +9097,7 @@ const W2 = () => x.jsx("div", {
             children: x.jsx(_2, {
                className: "h-5 w-5 text-gray-600"
             })
-         })]
+         })
       })]
    })
 });
