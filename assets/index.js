@@ -19707,7 +19707,7 @@ const ik = () => {
                   duration: .5,
                   delay: .2
                },
-               children: "ᥕᥱᥣᥴ᥆mᥱ 𝗍᥆ ᥲrᥡᥲ sһ᥆⍴ 𝗍һіs ᥲ ძіgі𝗍ᥲᥣ ᥴ᥆ᥣᥣᥱᥴ𝗍і᥆ᥒ"Collec     }), x.jsx(V.p, {
+               children: "Welcome to Arya Shop this a digital collection"Collec     }), x.jsx(V.p, {
                className: "text-lg text-gray-600 dark:text-gray-300 max-w-2xl mx-auto",
                initial: {
                   opacity: 0
@@ -19719,7 +19719,7 @@ const ik = () => {
                   duration: .5,
                   delay: .3
                },
-               children: "sᥱᥣᥲmᥲ𝗍 ᑲᥱrᑲᥱᥣᥲᥒȷᥲ ძі ᥲrᥡᥲ sһ᥆⍴, ⍴іᥣіһ ⍴ᥱsᥲᥒᥲᥒ ძᥲᥒ ᥲkᥲᥒ ძі 𝗍ᥱrᥙskᥲᥒ kᥱ ᥕһᥲ𝗍sᥲ⍴⍴. 𝗍һᥲᥒkᥡ᥆ᥙ ᥲᥒძ һᥲ⍴⍴ᥡ sһ᥆⍴⍴іᥒg."
+               children: "Selamat berbelanja di Arya Shop, Silahkan pilih pesanan anda dan akan di teruskan ke whatsapp. Thankyou and Happy Shopping!!!."
             })]
          }), x.jsx(V.div, {
             className: "grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8",
