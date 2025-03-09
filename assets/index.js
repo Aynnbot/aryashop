@@ -19849,7 +19849,7 @@ function ak() {
                path: "/public",
                element: x.jsx(ik, {})
             }), x.jsx($o, {
-               path: "/store",
+               path: "/market",
                element: x.jsx(sk, {})
             })]
          })]
