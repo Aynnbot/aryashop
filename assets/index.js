@@ -15000,8 +15000,8 @@ const gT = (e, t) => of(e) ? new mT(t) : new pT(t, {
                   },
                   children: x.jsx(Rs, {
                      to: "/",
-                     className: "text-lg font-bold bg-gradient-to-r from-blue-600 to-blue-500 bg-clip-text text-transparent",
-                     children: "Arya Shop"
+                     className: "text-lg font-bold bg-gradient-to-r from-pink-500 to-blue-600 bg-clip-text text-transparent",
+                     children: "Arya Shop 🎗"
                   })
                }), x.jsxs("div", {
                   className: "flex items-center gap-4",
