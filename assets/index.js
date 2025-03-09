@@ -19707,7 +19707,8 @@ const ik = () => {
                   duration: .5,
                   delay: .2
                },
-               children: "Welcome to Arya Shop this a digital collection"Collec     }), x.jsx(V.p, {
+               children: "Welcome to Arya Shop this a digital collection"     
+            }), x.jsx(V.p, {
                className: "text-lg text-gray-600 dark:text-gray-300 max-w-2xl mx-auto",
                initial: {
                   opacity: 0
