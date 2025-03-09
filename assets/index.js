@@ -9089,7 +9089,9 @@ const W2 = () => x.jsx("div", {
             className: "bg-white/5 px-3 py-1 rounded-full text-xs hover:bg-white/10 transition-all hover:scale-105 ring-1 ring-yellow-500",
             children: "🔊 Music"
          })]
-      }), x.jsx("a", {
+      }),  x.jsxs("div", {
+         className: "flex justify-center gap-4 mt-4 text-xl text-gray-400",
+         children: [x.jsx("a", {
             href: "https://github.com/AryaMarket",
             target: "_blank",
             rel: "noopener noreferrer",
@@ -9097,7 +9099,7 @@ const W2 = () => x.jsx("div", {
             children: x.jsx(_2, {
                className: "h-5 w-5 text-gray-600"
             })
-         })
+         })]
       })]
    })
 });
