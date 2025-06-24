@@ -14833,14 +14833,9 @@ const gT = (e, t) => of(e) ? new mT(t) : new pT(t, {
       url: "https://wa.me/6282264605530",
       icon: "☎"
    }, {
-      title: "My YouTube",
-      description: "Subscribe For Support",
-      url: "https://youtube.com/@aryabr_24",
-      icon: "📟"
-   }, {
       title: "My Tiktok",
       description: "Follow to support",
-      url: "https://www.tiktok.com/@arya.b_29",
+      url: "https://www.tiktok.com/@arstore_29",
       icon: "🎶"
    },{
       title: "My Room Chat Bot 1",
