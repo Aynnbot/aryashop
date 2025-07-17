@@ -14838,14 +14838,9 @@ const gT = (e, t) => of(e) ? new mT(t) : new pT(t, {
       url: "https://www.tiktok.com/@arstore_29",
       icon: "🎶"
    },{
-      title: "My Room Chat Bot 1",
+      title: "My Room Chat Bot",
       description: "Join to my group for free bot",
       url: "https://chat.whatsapp.com/BgroRRmleSIKY3N66vyS9x",
-      icon: "🪸"
-   },{
-      title: "My Room Chat Bot 2",
-      description: "Join to my group for free bot",
-      url: "https://chat.whatsapp.com/FmqtGGzSoXl8mU5vsNSZiB",
       icon: "🪸"
    },{
       title: "My Store Group",
