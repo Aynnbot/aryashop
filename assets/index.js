@@ -14835,7 +14835,7 @@ const gT = (e, t) => of(e) ? new mT(t) : new pT(t, {
    }, {
       title: "My Tiktok",
       description: "Follow to support",
-      url: "https://www.tiktok.com/@itsmear_1012",
+      url: "https://www.tiktok.com/@it.smeyaa",
       icon: "🎶"
    },{
       title: "My Room Chat Bot",
@@ -14845,7 +14845,7 @@ const gT = (e, t) => of(e) ? new mT(t) : new pT(t, {
    },{
       title: "My Store Group",
       description: "Join to my store group",
-      url: "https://chat.whatsapp.com/CMzuYOTdJaZFtWNArG7TGy",
+      url: "https://chat.whatsapp.com/JFm1RPgPPw8HrRa0GkPBFg",
       icon: "🛒"
    }, {
       title: "Channel Whatsapp Arya Official",
@@ -14858,10 +14858,10 @@ const gT = (e, t) => of(e) ? new mT(t) : new pT(t, {
       url: "https://whatsapp.com/channel/0029VawCuhUEawdlYMv3ON03",
       icon: "🪪"
    }, {
-      title: "Provide Support",
+      title: "Payment",
       description: "Give Snacks To Cherr Up.",
-      url: "https://files.catbox.moe/snq2w9.jpg",
-      icon: "🪫"
+      url: "https://files.catbox.moe/c0dacq.jpg",
+      icon: "💰"
    }, {
       title: "Currently Playing",
       isSpotify: !0,
@@ -19615,52 +19615,51 @@ const ik = () => {
    ok = [{
       id: 1,
       name: "Ori Grup 30 Day",
-      price: "Rp 17.000",
+      price: "Rp 14.000",
       category: "Sewa Grup",
       description: "Sewa Grup",
-      image: "https://files.catbox.moe/h0tacj.jpg"
+      image: "https://files.catbox.moe/0qm1mq.jpg"
    }, {
       id: 2,
       name: "Vip Grup 30 Day",
-      price: "Rp 27.000",
+      price: "Rp 20.000",
       category: "Premium Grup",
       description: "Premium Grup",
-      image: "https://files.catbox.moe/h0tacj.jpg"
+      image: "https://files.catbox.moe/0qm1mq.jpg"
    },{
       id: 3,
       name: "Premium Nomor/Private Chat🌀",
-      price: "Rp 15.000",
+      price: "Rp 8.000",
       category: "Premium Nomor 30 Day",
       description: "Private Chat",
-      image: "https://files.catbox.moe/h0tacj.jpg"
+      image: "https://files.catbox.moe/0qm1mq.jpg"
    }, {
       id: 4,
       name: "Ori Grup 15 Day",
-      price: "Rp 12.000",
+      price: "Rp 8.000",
       category: "Sewa Grup",
       description: "Sewa Grup",
-      image: "https://files.catbox.moe/h0tacj.jpg"
+      image: "https://files.catbox.moe/0qm1mq.jpg"
    }, {
       id: 5,
       name: "Vip Grup 15 Day⚡",
-      price: "Rp20.000",
+      price: "Rp11.000",
       category: "Premium Grup",
       description: "Premium Grup",
-      image: "https://files.catbox.moe/h0tacj.jpg"
-   },{
+      image: "https://files.catbox.moe/0qm1mq.jpg"
+   }, {
       id: 6,
-      name: "Premium Nomor/Private Chat🌀",
-      price: "Rp 10.000",
-      category: "Premium Nomor",
-      description: "Premium Nomor 15 Day",
-      image: "https://files.catbox.moe/h0tacj.jpg"
+      name: "All Aplikasi Premium",
+      price: "Rp Harga Chat Owner",
+      category: "Aplikasi Premium & TopUp Game",
+      description: "Aplikasi Premium & TopUp Game",
+      image: "https://files.catbox.moe/0qm1mq.jpg"
    }, {
       id: 7,
-      name: "Scrip Elaina - MD📄",
-      price: "Rp50.000",
-      category: "Digital",
-      description: "Scrip Elaina",
-      image: "https://files.catbox.moe/h0tacj.jpg"
+      name: "Payment",
+      category: "Payment QRIS & DANA",
+      description: "No Dana : 082264605530",
+      image: "https://files.catbox.moe/c0dacq.jpg"
    }],
    sk = () => {
       const e = t => {
