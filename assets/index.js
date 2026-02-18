@@ -14869,7 +14869,7 @@ const gT = (e, t) => of(e) ? new mT(t) : new pT(t, {
       artist: "Joo Won Shin",
       albumArt: "https://files.catbox.moe/8ob4kv.jpg",
       url: "https://open.spotify.com/track/76UTJqRcTCTVAKKHpdc0XU?si=bFDbYsoXR02ninzsGLk22A",
-      preview: "https://files.catbox.moe/s2oncm.mp3"
+      preview: "https://image2url.com/r2/default/audio/1771449301991-effaab8f-1c80-462f-83f7-d231f0bbef58.m4a"
    }],
    wT = () => {
       const [e, t] = h.useState(null), n = h.useRef(new Audio), r = (i, o, s) => {
