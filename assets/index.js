@@ -14823,11 +14823,6 @@ const gT = (e, t) => of(e) ? new mT(t) : new pT(t, {
    }, gT),
    V = rE(yT),
    vT = [{
-      title: "App Premium",
-      description: "App Premium",
-      url: "https://lynk.id/mearya",
-      icon: "🫧"
-   }, {
       title: "Owner Arya Official",
       description: "Owner Number.",
       url: "https://wa.me/6282264605530",
