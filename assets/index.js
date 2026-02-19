@@ -14830,7 +14830,7 @@ const gT = (e, t) => of(e) ? new mT(t) : new pT(t, {
    }, {
       title: "My Tiktok",
       description: "Follow to support",
-      url: "https://www.tiktok.com/@it.smeyaa",
+      url: "https://www.tiktok.com/@it.smearya",
       icon: "🎶"
    },{
       title: "My Room Chat Bot",
