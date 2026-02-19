@@ -14823,9 +14823,9 @@ const gT = (e, t) => of(e) ? new mT(t) : new pT(t, {
    }, gT),
    V = rE(yT),
    vT = [{
-      title: "About Me",
-      description: "About me.",
-      url: "https://aryashop.vercel.app",
+      title: "App Premium",
+      description: "App Premium",
+      url: "https://lynk.id/mearya",
       icon: "🫧"
    }, {
       title: "Owner Arya Official",
