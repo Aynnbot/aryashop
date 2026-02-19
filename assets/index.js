@@ -19649,13 +19649,83 @@ const ik = () => {
       image: "https://files.catbox.moe/0qm1mq.jpg"
    }, {
       id: 6,
-      name: "All Aplikasi Premium",
-      price: "Rp Harga Chat Owner",
-      category: "Aplikasi Premium & TopUp Game",
-      description: "Aplikasi Premium & TopUp Game",
+      name: "Alight Motion",
+      price: "Rp 2000",
+      category: "1 Tahun",
+      description: "Am prem 1 Tahun",
       image: "https://files.catbox.moe/0qm1mq.jpg"
    }, {
       id: 7,
+      name: "Canva Member",
+      price: "Rp 2500",
+      category: "1 Bulan",
+      description: "Canva Member via invite",
+      image: "https://files.catbox.moe/0qm1mq.jpg"
+   }, {
+      id: 8,
+      name: "Canva Member",
+      price: "Rp 7500",
+      category: "1 Tahun",
+      description: "Canva Member via invite",
+      image: "https://files.catbox.moe/0qm1mq.jpg"
+   }, {
+      id: 9,
+      name: "Capcut Pro",
+      price: "Rp 8500",
+      category: "1 Bulan",
+      description: "Capcut Pro Private",
+      image: "https://files.catbox.moe/0qm1mq.jpg"
+   }, {
+      id: 10,
+      name: "Disney",
+      price: "Rp 24500",
+      category: "1 Bulan",
+      description: "Disney sharing",
+      image: "https://files.catbox.moe/0qm1mq.jpg"
+   }, {
+      id: 11,
+      name: "Iqiyi",
+      price: "Rp 19500",
+      category: "1 Bulan",
+      description: "Iqiyi Standar Private",
+      image: "https://files.catbox.moe/0qm1mq.jpg"
+   }, {
+      id: 12,
+      name: "Netflix",
+      price: "Rp 24500",
+      category: "1 Bulan",
+      description: "Netflix  Sharing 1 Bulan",
+      image: "https://files.catbox.moe/0qm1mq.jpg"
+   }, {
+      id: 13,
+      name: "Spotify",
+      price: "Rp 12500",
+      category: "1 Bulan",
+      description: "Spotify Individual 1 Bulan Garansi",
+      image: "https://files.catbox.moe/0qm1mq.jpg"
+   }, {
+      id: 14,
+      name: "Vidio",
+      price: "Rp 21500",
+      category: "1 Bulan",
+      description: "Vidio Private 1 Bulan",
+      image: "https://files.catbox.moe/0qm1mq.jpg"
+   }, {
+      id: 15,
+      name: "Vision",
+      price: "Rp 13500",
+      category: "1 Bulan",
+      description: "Vision Private 1 Bulan",
+      image: "https://files.catbox.moe/0qm1mq.jpg"
+   }, {
+      id: 16,
+      name: "Vision+",
+      price: "Rp 26500",
+      category: "1 Bulan",
+      description: "Vision+ Private 1 Bulan",
+      image: "https://files.catbox.moe/0qm1mq.jpg"
+   }, {
+      id: 17,
       name: "Payment",
       category: "Payment QRIS & DANA",
       description: "No Dana : 082264605530",
